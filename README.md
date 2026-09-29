@@ -6,8 +6,9 @@ Personal CV site for [Vekil Pantchev](https://github.com/vponline).
 
 Open [index.html](./index.html) locally, or use the GitHub Pages URL above.
 
+Bare document layout (plain black text on white) matching the source Google Doc. Single `index.html` at repo root for GitHub Pages (`main` / root).
+
 ## Notes
 
-- Chronicle Labs is listed first as the current focus role.
-- API3 remains “2/2022–Present” as in the source CV; dates may need a refresh if role overlap should be clarified.
-- Chronicle start month is intentionally omitted until confirmed.
+- Chronicle Labs: Software Developer, 10/2024–Present
+- API3: Software Developer, 2/2022–9/2024
